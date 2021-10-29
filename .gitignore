@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+labs/*.txt
+labs/*.bin
+labs/*.gz
+labs/*.zip
+labs/glove.6B/
